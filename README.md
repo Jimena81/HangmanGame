@@ -3,13 +3,11 @@
 ## Description
 This is a simple Hangman game developed using HTML, CSS, and JavaScript. Guess the word before you run out of chances!
 
-## Demo
-You can try the live game [here](link-to-your-game).
 
 ## Features
 - Simple and attractive interface.
-- Random words to guess.
-- Attempts counter.
+- Random words related with programming to guess.
+
 
 ## How to Play
 1. Open the `index.html` file in your web browser.
